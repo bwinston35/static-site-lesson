@@ -1,0 +1,7 @@
+title: My Great New Blog
+author:
+  name: Bryan Winston
+  email: bryan.winston@princeton.edu
+description: "A Great site about GitHubPages"
+
+remote_theme: jekyll/minima
